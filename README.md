@@ -1,2 +1,3 @@
 # crizzzz
-![alt text]()![Screenshot 2024-09-14 192648](https://github.com/user-attachments/assets/178f994b-862a-49ed-b2d8-d46dda162c0a)
+
+![Screenshot_2024-09-14_192648-removebg-preview](https://github.com/user-attachments/assets/7180aff0-9076-4322-819d-5241b6407e94)
