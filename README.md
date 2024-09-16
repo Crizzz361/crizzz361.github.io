@@ -1,4 +1,4 @@
-## Story
+## Description
 Intermediate 3D modeler/ new to 3D animation
 
 ## Past Work
