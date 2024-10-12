@@ -100,8 +100,21 @@
     <!-- Home Section -->
     <section id="home">
         <div class="intro">
-            <h1>[Name]</h1>
-            <p>[introduction]</p>
+            <h1>Crizzzz</h1>
+            <p>Crizzzz is a self taught intermediate 3D artist and amateur 3D animator. Crizzzz has worked with XelionixGP and has made models for the game Harsh Habitats.  Crizzzz has also worked on the animated series Fred Opens A Refrigerator.
+
+
+Harsh Habitats
+
+Harsh Habitats is an open world multiplayer survival game where you gather resources, build your village, and protect your village from offen raids by enemy villages. You face challenges based on the biome you settle in. The game offers weapons that were used by many different tribes. 
+
+  
+  
+
+Fred Opens A Refrigerator
+
+Fred Opens A Refrigerator is an animated series on YouTube.   In each episode, the antagonist, Fred (also the main character of Harsh Habitats) opens a refrigerator and finds something random and then a wild adventure begins.       
+</p>
         </div>
     </section>
 
@@ -111,10 +124,10 @@
         <div class="model-display">
             <x3d width="500px" height="400px">
                 <scene>
-                    <inline url="your-model.x3d"></inline>
+                    <inline url="model.x3d"></inline>
                 </scene>
             </x3d>
-            <p>[Model 1 Description]</p>
+            <p>Free male base mesh available on Fab for free</p>
         </div>
 
         <div class="model-display">
